@@ -38,6 +38,8 @@ FEATURES:
 •	GIF Generation
 •	Performance Comparison using Different Image Sizes
 
+Image Processing pipeline:
+Input Image -> Resize -> Grayscale -> Gaussian Blur -> Thresholding -> Morphological Operations -> Edge Detection -> Contour Detection -> Bounding Boxes
 
 1.	Image Transformations:
 The project demonstrates:
