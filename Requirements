@@ -1,0 +1,8 @@
+Requirements: 
+
+Python
+OpenCV
+NumPy
+Matplotlib
+ImageIO
+Google Colab
