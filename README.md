@@ -116,8 +116,10 @@ FUNCTIONS USED:
 •	cv2.VideoCapture()
 •	cv2.VideoWriter()
 
-Sample photo used: <img width="1536" height="1024" alt="beach" src="https://github.com/user-attachments/assets/d9debf9b-dbc8-439b-9bf0-c2b9e58a3504" />
-Sample Video used: <img width="320" height="320" alt="dance" src="https://github.com/user-attachments/assets/39be384b-9c77-4828-80a2-119ba43cc7e4" />
+SAMPLE PHOTO USED: 
+<img width="1536" height="1024" alt="beach" src="https://github.com/user-attachments/assets/d9debf9b-dbc8-439b-9bf0-c2b9e58a3504" />
+SAMPLE VIDEO USED:
+<img width="320" height="320" alt="dance" src="https://github.com/user-attachments/assets/39be384b-9c77-4828-80a2-119ba43cc7e4" />
 
 
 
