@@ -1,9 +1,9 @@
-# IMAGE PROCESSING USING OPENCV
+# IMAGE PROCESSING USING OPENCV FUNCTIONS
 
 A simple OpenCV project built using Python that explores fundamental image processing techniques used in computer vision.
 The project demonstrates how different preprocessing methods improve image quality, reduce computational complexity and prepare images for feature extraction and object detection.
 
-Project Overview:
+PROJECT OVERVIEW:
 This project implements a complete image processing pipeline using OpenCV. 
 Different image transformations, filtering techniques, thresholding methods, morphological operations and contour detection algorithms were explored to understand their applications in real-world computer vision systems. 
 The project also includes video frame processing and GIF generation to demonstrate that the same preprocessing techniques can be applied to videos.
